@@ -1,0 +1,72 @@
+---
+title: "🎓 Certifications"
+format:
+  html:
+    toc: false
+---
+
+<button class="toggle-btn" onclick="document.body.classList.toggle('dark-mode')">
+  Toggle Dark Mode
+</button>
+
+Here’s a snapshot of some of the certifications and seminars I have completed over the years. Each one reflects my learning journey and professional development.  
+
+---
+
+### 1. Indian Conference on Bioinformatics (INBIX'17)
+**Institution:** Birla Institute of Science Research, Statue Circle, Jaipur, India  
+**Date:** 2017  
+**Details:** Participated in a 3-day conference on *“Bioinformatics”*.  
+![](certifications/certification1.png){width=60%}
+
+---
+
+### 2. Summer Internship: Hands on Training on Microbiological Techniques
+**Institution:** Panjab University, Chandigarh, India  
+**Date:** June 19- July 15, 2017 
+**Details:** Participated in a 4 weeks summer intership program on *“Microbiological Techniques”* organised by the Department of Microbiology at Panjab University.  
+![](certifications/certification2.png){width=60%}
+
+---
+
+### 3. Internation Conference on "Recent Advances on Quality Enhancement in Science and Technology."  
+**Institution:** Hans Raj Mahila Maha Vidyalaya, Jalandhar, India 
+**Date:** January 16-17, 2017  
+**Details:** Attended the international conference organised by the *"Faculty of Sciences"* in collaboration with *"International Association of Research Scholars (IARS), Australia"*.
+![](certifications/certification3.png){width=60%}
+
+---
+
+### 4. Har Saans Swachh
+**Institution:**  Punjabi University, Patiala, India
+**Date:** March 28, 2019 
+**Details:** Participated in one day seminar on *"Air Pollution and its Impact"*.   
+![](certifications/certification4.png){width=60%}
+
+---
+
+### 5. Awareness and Capacity building About Climate Change on Biodiversity in Punjab
+**Institution:**  Punjabi University, Patiala, India
+**Date:** April 15, 2019 Department of Zoology and Environmental Sciences"*.    
+![](certifications/certification5.png){width=60%}
+
+---
+
+
+### 6. Har Saans Swachh Seminar  
+**Institution:** Punjabi University, Patiala  
+**Date:** March 28, 2019  
+**Details:** Participated in a seminar on *“Air Pollution & its Impact”*.  
+![](certifications/certification6.png){width=60%}
+
+---
+
+### 7. Secretary, CV Raman Science Society  
+**Institution:** Hans Raj Mahila Maha Vidyalaya, Jalandhar  
+**Date:** 2017–18  
+**Details:** Recognized for commendable service as Secretary of the college science society.  
+![](certifications/certification7.png){width=60%}
+
+---
+## More Certifications Coming Soon!  
+I’ve completed several other workshops and online courses in programming, teaching, and analytics. More will be added here as I continue to grow.

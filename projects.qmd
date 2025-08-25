@@ -1,0 +1,76 @@
+---
+title: "Projects"
+format:
+  html:
+    toc: false
+---
+<button class="toggle-btn" onclick="document.body.classList.toggle('dark-mode')">
+  Toggle Dark Mode
+</button>
+
+Here’s a snapshot of what I’ve been building—mixing machine learning, app development, AR/VR, and teaching experiments. Each project tells a story about learning, creating, and exploring new tech.  
+
+---
+
+### 1. 🧠 Brain Tumor Classification (Colab, MBA Course)  
+Built a CNN to classify brain tumors from MRI images. Learned the full pipeline: preprocessing, model training, and evaluation.  
+[View Notebook](https://colab.research.google.com/drive/1CFKT3GySUWV0MlrqxT6yXKcLVuLWxpSG?usp=sharing)  
+
+---
+
+### 2. 😊 Sentiment Analysis (Python, Teaching Project)  
+Taught students how to classify text sentiment with Python. Learned about text preprocessing, supervised learning, and model evaluation—all while having fun!  
+[GitHub Repo](https://github.com/kirtigupta1219/Sentiment-Analysis)  
+
+---
+
+### 3. 🎲 Multiplayer Ludo Game (Python, Teaching Project)  
+Guided students in building a server-client multiplayer Ludo game. Taught networking, socket programming, and game logic for turn-based fun.  
+[GitHub Repo](https://github.com/kirtigupta1219/Python-Multiplayer-Ludo-Game)  
+
+---
+
+### 4. 📚 Book App – React Native (Play Store Project)  
+Helped a student create a mobile book browsing app in React Native, now live on Play Store. Students learned UI, navigation, and app deployment.  
+[Try it on Android](https://snack.expo.dev/@kirtigupta02458/book-app?platform=android)  
+
+---
+
+### 5. 🛰️ ISS Tracker – React Native (Teaching Project)  
+Built an app to track the International Space Station in real-time. Students learned API integration and interactive app design.  
+[Interact Here](https://snack.expo.dev/@kirtigupta02458/iss-tracker)  
+
+---
+
+### 6. 🔫 3D Shooting Game (A-Frame, GitHub Project)  
+Created a first-person 3D shooting game using A-Frame. Learned 3D modeling, physics, and interactivity in VR environments.  
+[GitHub Repo](https://github.com/kirtigupta1219/3D-Shooting-Game)  
+
+---
+
+### 7. ⏰ Invisible Cloak (Python, GitHub Project)  
+A Python project that creates an invisibility effect using your webcam. When a red cloth is held up, it appears as if you vanish from the camera view, demonstrating real-time video processing and color masking techniques.  
+[GitHub Repo](https://github.com/kirtigupta1219/Invisible-Clock)  
+
+---
+
+### 8. ⌨️ Virtual Keyboard & Mouse (Python, GitHub Project)  
+Simulated keyboard and mouse using computer vision. Students explored image processing, Python libraries, and innovative interaction techniques.  
+[GitHub Repo](https://github.com/kirtigupta1219/Virtual-Keyboard-Mouse)  
+
+---
+
+### 9. ⚛️ AR Chemical Bond (AR, Teaching Project)  
+Created an AR tool to visualize chemical bonds. Students interact with molecules in 3D, making chemistry lessons immersive and fun.  
+[GitHub Repo](https://github.com/kirtigupta1219/AR-Chemical-Bond)  
+
+---
+
+### 10. 🏋️ BMI Calculator (Python, GitHub Project)  
+Developed a Body Mass Index calculator in Python. Students learned formulas, user input handling, and project structure.  
+[GitHub Repo](https://github.com/kirtigupta1219/BMI-Calculator)  
+
+---
+
+## 🔍 Explore More   
+Most of my other experiments, projects, and teaching resources live on my [**GitHub profile**](https://github.com/kirtigupta1219?tab=repositories). Feel free to browse!

@@ -1,0 +1,34 @@
+{
+  "index.qmd": {
+    "index.html": "e3faba09"
+  },
+  "about.qmd": {
+    "about.html": "849fd758"
+  },
+  "sample.qmd": {
+    "sample.tex": "a2ea79fb",
+    "sample.html": "a339605f"
+  },
+  "index1.qmd": {
+    "index1.html": "ae56ca69"
+  },
+  "projects.qmd": {
+    "projects.html": "94182df6"
+  },
+  "contact.qmd": {
+    "contact.html": "5eeee602"
+  },
+  "resume.qmd": {
+    "resume.html": "6e86fe21"
+  },
+  "not needed/index.qmd": {
+    "index.html": "d2dd5fbe"
+  },
+  "not needed/sample.qmd": {
+    "sample.html": "bb5b511f",
+    "sample.tex": "92e33b74"
+  },
+  "certifications.qmd": {
+    "certifications.html": "b75e79fa"
+  }
+}

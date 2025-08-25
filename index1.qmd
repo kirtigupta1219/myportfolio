@@ -1,0 +1,47 @@
+---
+title: "👋 Welcome"
+format:
+  html:
+    toc: false
+---
+<button class="toggle-btn" onclick="document.body.classList.toggle('dark-mode')">
+  Toggle Dark Mode
+</button>
+
+<div class="intro-section">
+  <img src="kirti.jpg" class="profile-img">
+  <h1>Hi, I'm Kirti</h1>
+  <p>MBA candidate at **University Canada West** and Assistant Center Director at Mathnasium West Vancouver</p>
+</div>
+
+
+  
+By December 2025, I’ll have completed my MBA with electives in **Machine Learning Models and Techniques**, **Cloud Computing Technologies**, and **AI in Business**, all tools I’m eager to bring into real-world projects.
+
+---
+
+## 💼 What I Do
+At Mathnasium, I run daily operations, mentor a team of instructors, and make sure every student’s learning plan feels tailor-made. I bring a mix of **teaching expertise**, **analytical thinking**, and **leadership skills** to the table, plus a healthy dose of curiosity that keeps me learning new tech every chance I get.
+
+---
+
+## 🚀 Where I’m Headed
+I’m passionate about **programming** and see myself either teaching it, building educational technology solutions, or contributing to IT projects that make learning smarter and more accessible.  
+If it blends **code, creativity, and impact**, I’m in.
+
+---
+
+## 🌟 My Mission
+Learning should never feel like a chore. My mission is to combine **data-driven insights** with **creative problem-solving** to design learning experiences that actually stick, and maybe even make people smile along the way.
+
+---
+
+## 🎨 Beyond the MBA
+When I’m not managing a learning center or tinkering with code, you’ll probably find me sketching.  
+You can see some of my work here: [Instagram Art Page](https://www.instagram.com/ske_tchaholic/?igsh=MTVzb3hkeHczYm52aA%3D%3D&utm_source=qr#)  
+I also enjoy mentoring students, volunteering in education projects, and finding ways to use tech for social good.
+
+---
+
+## 📬 Let’s Connect
+Whether you want to talk data, design, or doodles, I’m just a click away. Head over to my **Contact** page and say hi.
